@@ -1,0 +1,9 @@
+Sau khi đọc file csv dữ liệu các ngôi nhà ở Melbourne một ngồi nhà sẽ có rất nhiều dữ liệu 
+Trong phần này sẽ đưa ra ví dụ chọn lựa một số dữ liệu của ngôi nhà để dự đoán
+Loại dữ liệu được chọn lựa lưu vào biến melbourne_features
+Lọc dữ liệu này của những ngôi nhà ở Melbourne lưu vào biến X
+Biến Y lưu giá trị của những ngôi nhà.
+Sử dụng thư viện sklearn để xây dựng Mô hình Tree Decision  (Làm thế nào để xây dựng một mô hình????)
+fit cho mô hình vừa xây dựng
+đưa ra sai số
+phân chia dữ liệu thành dữ liệu train và test cho cả features và target
